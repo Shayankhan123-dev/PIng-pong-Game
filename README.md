@@ -16,7 +16,7 @@ pip install pygame
 
 1. Clone the repository
 
-   git clone https://github.com/your-username/ping-pong-game.git
+   git clone https://github.com/Shayankhan123-dev/ping-pong-game.git
    cd ping-pong-game
    
 
